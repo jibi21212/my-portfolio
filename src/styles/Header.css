@@ -1,0 +1,14 @@
+.header nav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .header nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .header nav a:hover {
+    text-decoration: underline;
+  }
